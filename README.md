@@ -2,7 +2,7 @@
 
 # 🤖 LuAI Tools · AI Tools Directory
 
-A community-curated list of the best AI tools — the open edition of [LuAI Tools](https://luai.tools).
+A community-curated list of the best AI tools — the open edition of [LuAI Tools](https://luaitools.com/).
 
 **Submit a tool** · [Browse by category](#categories) · [Contributing](CONTRIBUTING.md)
 
@@ -12,7 +12,7 @@ A community-curated list of the best AI tools — the open edition of [LuAI Tool
 
 > **LuAI Tools** is a multilingual AI tools directory (Chinese / English / Japanese / Spanish) covering AI tools, AI news, and an AI knowledge base.
 >
-> 🌐 Visit the site: [https://luai.tools](https://luai.tools) · ✉️ Submit your tool on the website, or right here via issue / pull request.
+> 🌐 Visit the site: [https://luaitools.com/](https://luaitools.com/) · ✉️ Submit your tool on the website, or right here via issue / pull request.
 
 This repository is the **community edition** — anyone can add an AI tool for free. If you built an AI tool, add it here to get discovered by thousands of AI users and makers.
 
@@ -47,33 +47,34 @@ Table format:
 ## 📂 Categories
 
 ### 📁 AI Directory & Navigation
-
-| Tool | Description | Link |
 |---|---|---|
-| [LuAI Tools](https://luai.tools) | Multilingual AI tools directory with AI news and knowledge base | [Website](https://luai.tools) |
+| Tool | Description | Link |
+|WPS AI|WPS AI adds AI-powered writing, document analysis, spreadsheet assistance, presentation creation, PDF processing, translation, and other productivity tools directly to WPS Office.|wps.ai|
+| [LuAI Tools](https://luaitools.com/) | Multilingual AI tools directory with AI news and knowledge base | [Website](https://luaitools.com/) |
 
 ### ✍️ Writing
 
 | Tool | Description | Link |
-|---|---|---|
+
+|WPS AI|WPS AI adds AI-powered writing, document analysis, spreadsheet assistance, presentation creation, PDF processing, translation, and other productivity tools directly to WPS Office.|wps.ai|
 | _Submit yours above →_ | | |
 
 ### 🎨 Image & Design
 
 | Tool | Description | Link |
-|---|---|---|
+|Midjourney|Midjourney is an AI creative platform for generating images and videos from natural-language prompts.|midjourney.com|
 | _Submit yours above →_ | | |
 
 ### 🎬 Video
 
 | Tool | Description | Link |
-|---|---|---|
+|Kling|AI platform for creating high-quality videos and images from text, images and references.|https://klingai.com/|
 | _Submit yours above →_ | | |
 
 ### 💻 Coding
 
 | Tool | Description | Link |
-|---|---|---|
+|Devin|Devin is an AI software engineer that can plan, write, test, debug, review, and ship software with much less hands-on coding.|[---](https://devin.ai/)|
 | _Submit yours above →_ | | |
 
 ### ⚡ Productivity
@@ -104,7 +105,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for the full rules.
 
 ## 🔗 About LuAI Tools
 
-[LuAI Tools](https://luai.tools) is a global AI tools navigation site. It curates AI tools, up-to-date AI news, and an AI knowledge encyclopedia — available in Chinese, English, Japanese, and Spanish. AI makers can submit their tools for free, and we offer a friendly-links (link exchange) program for AI and directory sites.
+[LuAI Tools](https://luaitools.com/) is a global AI tools navigation site. It curates AI tools, up-to-date AI news, and an AI knowledge encyclopedia — available in Chinese, English, Japanese, and Spanish. AI makers can submit their tools for free, and we offer a friendly-links (link exchange) program for AI and directory sites.
 
 ## 📄 License
 
