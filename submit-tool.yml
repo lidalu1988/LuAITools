@@ -1,0 +1,55 @@
+name: Submit a tool
+description: Add an AI tool to the LuAI Tools directory
+title: "[Submit] Tool name"
+labels: ["submission"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Tool name
+      description: The exact name of the tool.
+      placeholder: e.g. LuAI Tools
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Website URL
+      description: The tool's main website (no affiliate or referral links).
+      placeholder: https://example.com
+    validations:
+      required: true
+  - type: input
+    id: description
+    attributes:
+      label: One-line description
+      description: Max 80 characters, factual, no superlatives (avoid "best", "amazing", "#1").
+      placeholder: e.g. Multilingual AI tools directory
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      description: Which section should this go in?
+      options:
+        - AI Directory & Navigation
+        - Writing
+        - Image & Design
+        - Video
+        - Coding
+        - Productivity
+        - Other
+    validations:
+      required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Checklist
+      options:
+        - label: This tool is publicly accessible and functional
+          required: true
+        - label: This tool is not already in the list
+          required: true
+        - label: The description is factual (no superlatives) and the link is not an affiliate link
+          required: true
