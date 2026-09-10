@@ -49,7 +49,7 @@ Table format:
 ### 📁 AI Directory & Navigation
 |---|---|---|
 | Tool | Description | Link |
-|WPS AI|WPS AI adds AI-powered writing, document analysis, spreadsheet assistance, presentation creation, PDF processing, translation, and other productivity tools directly to WPS Office.|wps.ai|
+
 | [LuAI Tools](https://luaitools.com/) | Multilingual AI tools directory with AI news and knowledge base | [Website](https://luaitools.com/) |
 
 ### ✍️ Writing
