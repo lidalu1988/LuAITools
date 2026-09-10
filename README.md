@@ -24,7 +24,7 @@ There are two ways, pick whichever is easier for you:
 
 **Option A — Open an issue (fastest, no Git needed)**
 
-1. Go to the [Issues](https://github.com/USER/REPO/issues) tab.
+1. Go to the [Issues](https://github.com/lidalu1988/LuAITools/issues) tab.
 2. Click **New issue** → **Submit a tool**.
 3. Fill in the name, URL, one-line description, and category.
 4. Submit. A maintainer will review and add it, usually within a few days.
