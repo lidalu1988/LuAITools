@@ -56,25 +56,25 @@ Table format:
 
 | Tool | Description | Link |
 
-|WPS AI|WPS AI adds AI-powered writing, document analysis, spreadsheet assistance, presentation creation, PDF processing, translation, and other productivity tools directly to WPS Office.|https://wps.ai/|
+|WPS AI|WPS AI adds AI-powered writing, document analysis, spreadsheet assistance, presentation creation, PDF processing, translation, and other productivity tools directly to WPS Office.|[WPS AI](https://wps.ai/)|
 | _Submit yours above →_ | | |
 
 ### 🎨 Image & Design
 
 | Tool | Description | Link |
-|Midjourney|Midjourney is an AI creative platform for generating images and videos from natural-language prompts.|https://midjourney.com/|
+|Midjourney|Midjourney is an AI creative platform for generating images and videos from natural-language prompts.|[Midjourney](https://midjourney.com/)|
 | _Submit yours above →_ | | |
 
 ### 🎬 Video
 
 | Tool | Description | Link |
-|Kling|AI platform for creating high-quality videos and images from text, images and references.|https://klingai.com/|
+|Kling|AI platform for creating high-quality videos and images from text, images and references.|[Kling](https://klingai.com/)|
 | _Submit yours above →_ | | |
 
 ### 💻 Coding
 
 | Tool | Description | Link |
-|Devin|Devin is an AI software engineer that can plan, write, test, debug, review, and ship software with much less hands-on coding.|(https://devin.ai/)|
+|Devin|Devin is an AI software engineer that can plan, write, test, debug, review, and ship software with much less hands-on coding.|[Devin](https://devin.ai/)|
 | _Submit yours above →_ | | |
 
 ### ⚡ Productivity
